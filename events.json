@@ -1,0 +1,30 @@
+[
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code is a lightweight but powerful source code editor.",
+    "language": "TypeScript",
+    "url": "https://github.com/microsoft/vscode",
+    "starred": "2024-01-15"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "Learn to code for free with open source courses and projects.",
+    "language": "JavaScript",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "starred": "2024-01-15"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React framework for production-grade web applications.",
+    "language": "JavaScript",
+    "url": "https://github.com/vercel/next.js",
+    "starred": "2024-01-15"
+  },
+  {
+    "name": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapidly building custom designs.",
+    "language": "CSS",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "starred": "2024-01-15"
+  }
+]
